@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9o8gnh600680fjo1ddltjgf/stats?cursusId=21&coalitionId=48" alt="mderome's 42 stats" /></a>
 
 ## :white_check_mark: 42 Grades  
 
